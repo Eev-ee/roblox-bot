@@ -1,0 +1,16 @@
+{
+  "name": "roblox-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --path \"D:/old desktop/Desktop/Exploits/aaa\""
+  },
+  "keywords": [],
+  "author": "eev",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "ws": "^8.8.1"
+  }
+}
